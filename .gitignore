@@ -1,3 +1,4 @@
-test-target
 test-src
 test-origin-pictures
+test-workspace
+!test-workspace/lab.py
