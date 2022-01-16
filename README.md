@@ -1,4 +1,6 @@
-# 分类脚本
+# Organize Pictures by Date
+
+## 分类脚本
 
 脚本功能
 
@@ -11,12 +13,9 @@
 脚本
 
 - classify-pictures-by-shot_time-month -new -02-28.py（按月）
-
 - classify-pictures-by-shot_time-year -new -02-28.py（按年）
 
-
-
-# 重命名脚本
+## 重命名脚本
 
 脚本功能
 
@@ -25,8 +24,10 @@
 - 重命名时，会跳过那些已经重命名好的图片。
 - 遇到两个拍摄时间（修改时间）相同的文件，会给后面的文件的名字中加上一个时间戳，防止覆盖文件（有的图片虽然时间相同，但未必就是同一张图片），**需要后续手动修改**。
 
-
-
 脚本
 
 - rename-pictures-by-shot_time.py
+
+## 许可
+
+MIT License
